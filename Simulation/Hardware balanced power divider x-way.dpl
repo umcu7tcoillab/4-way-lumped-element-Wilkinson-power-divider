@@ -1,0 +1,48 @@
+<QucsStudio Schematic 2.5.7>
+<Properties>
+  <View=-153,-1520,2117,1027,0.512622,0,60>
+  <Grid=10,10,0>
+  <DataSet=Hardware balanced power divider x-way.dat>
+  <DataDisplay=Hardware balanced power divider x-way.sch>
+  <OpenDisplay=1>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect -3 892 1326 663 3 #c0c0c0 1 00 1 1e+07 1e+07 1e+08 1 -100 20 8.8627 1 0 0 0 315 0 225 "" "" "">
+	<Legend 10 -100 0>
+	<"S21_dB" #0000ff 0 3 0 0 0 0 "">
+	  <Mkr 4.57088e+07 403 -682 4 1 0>
+	<"S31_dB" #ff0000 0 3 0 0 0 0 "">
+	<"S41_dB" #ff00ff 0 3 0 0 0 0 "">
+	<"S51_dB" #00ff00 0 3 0 0 0 0 "">
+  </Rect>
+  <Rect 2 140 1337 594 3 #c0c0c0 1 00 1 0 0 0 0 -50 50 500 1 0 0 0 315 0 225 "" "" "">
+	<Legend 10 -100 0>
+	<"Z11" #0000ff 0 3 0 0 0 0 "">
+	  <Mkr 4.57509e+07 568 -250 4 0 0>
+	<"Z22" #ff0000 0 3 0 0 0 0 "">
+  </Rect>
+  <Smith -2 -492 1008 1008 3 #c0c0c0 1 00 1 0 1 1 1 0 4 1 1 0 1 1 315 0 225 "" "" "">
+	<Legend 10 -100 0>
+	<"S[1,1]" #0000ff 0 3 0 0 0 0 "">
+	  <Mkr 4.57299e+07 182 -818 4 0 0>
+	<"S[2,2]" #ff0000 0 3 0 0 0 0 "">
+	  <Mkr 4.57299e+07 572 -798 4 0 0>
+  </Smith>
+  <Tab 1222 -504 585 916 3 #c0c0c0 1 00 1 3402 1 1 1 0 1 1 1 0 1 5001 315 0 225 "" "" "">
+	<"Z11" #0000ff 0 5 1 0 0 0 "">
+	<"Z22" #0000ff 0 5 1 0 0 0 "">
+  </Tab>
+</Diagrams>
+<Paintings>
+</Paintings>
