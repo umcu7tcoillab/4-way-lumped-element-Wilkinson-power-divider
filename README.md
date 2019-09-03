@@ -1,6 +1,6 @@
 **A 4-way Wilkinson power divider made from lumped elements.**
 
-This specific PCB was made for deuterium on 7 Tesla (45.75MHz). With a maximum input power of about 10kW.
+This specific PCB was made for deuterium imaging on a 7 Tesla MRI scanner (45.75MHz). With a maximum input power of about 10kW.
 
 > Simulation made in Qucsstudio v2.5.7
 
